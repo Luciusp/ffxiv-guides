@@ -51,6 +51,32 @@ Towers will spawn in set locations across the arena. Afterward, the towers will 
 **Resolution:**
 Have each player stand on their assigned tower. Afterward, hover between the first and second rows of the arena. Once the boss begins his cast of Holy or Circles, move to the first or second row and identify the single tower that has purple beams coming from it (as seen above). That is the safe spot.
 
+#### _Silkspit + Daemonic Bonds:_
+**Setup:**
+Each player will receive an AOE marker under them.
+
+Afterwards, the boss will case Daemonic Bonds, putting either one or two of three possible purple debuffs on each players. The debuffs are
+
+- Solo stack. Will always happen (denoted by a single character icon on the debuff)
+- Duo stack. Will always target all T/H or DPS (two character icons)
+- Light party stack. Will always target one t/h and one dps (four character icons)
+
+Once these debuffs reach zero, a medium size AOE occur around the player, killing them if they do not satisfy the requirements of the debuff.
+
+Then the boss will cast Touchdown, causing the middle arena to become a lethal AOE. This mechanic ends with another raidwide cast.
+
+**Resolution:**
+Have melees and tanks go left and right onto the far platforms depending on their light party, healers in the middle main platform, casters in the back.
+
+All players should immediately come back to the middle for healing and to form a conga line to determine who should go left or right to fire their solo beam. Take this time to determine which players should go to which outer platforms for Touchdown. They should spread or stack according to which debuff expires first.
+
+The logic is straightforward:
+- If four stack debuffs go out, DPS all go left, T/H go right.
+- Otherwise light parties go left and right.
+
+[Clip](https://clips.twitch.tv/UnsightlySmellyCiderTwitchRPG-Aw7cGJG1yMmOQMb9) of duo stack.
+[Clip](https://clips.twitch.tv/AlluringTangentialTomatoCoolCat-K-uzuh-qpcEL1Mtt) of four stack.
+
 # The Eleventh Circle
 ### Marker Setup
 # The Twelfth Circle
