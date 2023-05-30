@@ -1,13 +1,13 @@
 # The Tenth Circle
-###Marker Setup
+### Marker Setup
 ![alt text](img/marker-setup.png)
 Exact colors and number don't matter
 
-###Timeline
+### Timeline
 [Fight Timeline can be found here](https://ff14.toolboxgaming.space/timeline?id=75393810445861). They cleared at exactly 10 minutes in the vod, so I don't know what comes after.
 
-###Major Mechanics:
-#####_Dividing Wings / Steel Web:_
+### Major Mechanics:
+##### _Dividing Wings / Steel Web:_
 **Setup:**
 Two winged spears will spawn in the center of the arena. After a few seconds, they will tether to two random players. Once these tethers disappear, each tethered player will fire a lethal 120 degree cone across the map.
 
@@ -30,9 +30,9 @@ Click [here](https://clips.twitch.tv/CrypticFrigidZebraWow--m2U0MVGTdyTFzzK) for
 
 Click [here](https://clips.twitch.tv/KindBetterSquirrelCharlietheUnicorn-ggJUCv-ej8ZF0nL4) for failure state in case too many people get webbed.
 
-####
+#### _Wicked Step / Entangling Web:_
 
 # The Eleventh Circle
-###Marker Setup
+### Marker Setup
 # The Twelfth Circle
-###Marker Setup
+### Marker Setup
