@@ -114,6 +114,10 @@ Some tricky combinations to mention:
 ##### _Dividing Wings + Touchdown_:
 Have DPS go left, T/H go right when resolving the web stack. The tethered players need to point the cone away from the boss. They can almost stand on the spear. [Clip](https://clips.twitch.tv/StrongBloodyOstrichSaltBae-Qm2B53ybMNscNE8s)
 
+##### _Dividing Wings + Entangling Web x2+ Stacks:_
+Have players form a conga line to determine where they should go for placing their web AOEs at the south of the arena. The two tether players point their tether east/west and slightly north to avoid cleaving the party. 
+All remaining players should stack in the center to take the soak. The two tethered players need to _quickly_ run through the webbing to free the stack players so they can take their AOEs south in the same spots as the prior AOE group. [Clip](https://clips.twitch.tv/FastAffluentSowNerfBlueBlaster-VsHcaXpHNVr3CvUM)
+
 # The Eleventh Circle
 ### Marker Setup
 # The Twelfth Circle
