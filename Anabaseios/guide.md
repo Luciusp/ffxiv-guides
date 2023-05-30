@@ -1,13 +1,14 @@
 # The Tenth Circle
-### Marker Setup
+Vod of the clear [here](https://www.twitch.tv/videos/1833080083?t=6h43m45s)
+## Marker Setup
 ![alt text](img/marker-setup.png)
 Exact colors and number don't matter
 
-### Timeline
+## Timeline
 [Fight Timeline can be found here](https://ff14.toolboxgaming.space/timeline?id=75393810445861). They cleared at exactly 10 minutes in the vod, so I don't know what comes after.
 
-### Major Mechanics:
-##### _Dividing Wings / Steel Web:_
+## Major Mechanics:
+### _Dividing Wings / Steel Web:_
 **Setup:**
 Two winged spears will spawn in the center of the arena. After a few seconds, they will tether to two random players. Once these tethers disappear, each tethered player will fire a lethal 120 degree cone across the map.
 
@@ -30,20 +31,20 @@ Have the marked players stand in the middle left and right of the room while the
 
 [Clip](https://clips.twitch.tv/KindBetterSquirrelCharlietheUnicorn-ggJUCv-ej8ZF0nL4) for failure state in case too many people get webbed.
 
-#### _Wicked Step / Entangling Web:_
+### _Wicked Step / Entangling Web:_
 **Setup:**
 Two tankbuster towers will spawn on the left and right. After the tower explodes, anyone standing in it will be thrown very far away.
 
 Afterwards, both tanks and two random players will be targeted with webbing AOEs. After they go off, they leave behind webbing briefly on the ground. If in close proximity to other ground webs, they will form a path between themselves.
 
 **Resolution:**
-Both tanks need to be knocked to sides _opposite_ their light party, otherwise they'll be thrown too far and miss the platforms. Safe spot is below. Mirrored on the other side for the other tank. ![here](img/wicked-step-safe-spot.png).
+Both tanks need to be knocked to sides _opposite_ their light party, otherwise they'll be thrown too far and miss the platforms. Safe spot is below. Mirrored on the other side for the other tank. ![here](img/wicked-step-safe-spot.png)
 
 Each tank will need on partner so they can combine the webs together to make a path out to the side platforms. Have the remaining 6 players on the platform line up in a conga line to decide who goes to which tank.
 
 [Clip](https://clips.twitch.tv/ConfidentTemperedJuice4Head-qsbMl7jcf5iIuk2h) of resolution.
 
-#### _Pandaemoniac Pillars:_
+### _Pandaemoniac Pillars:_
 **Setup:**
 Towers will spawn in set locations across the arena. Afterward, the towers will animate and choose to either perform a donut or circle AOE under them as seen below. At the same time, the boss will cast either Pandaemon's Holy or Circles of Pandaemonium.
 ![alt text](img/tower-aoe.png)
@@ -51,7 +52,7 @@ Towers will spawn in set locations across the arena. Afterward, the towers will 
 **Resolution:**
 Have each player stand on their assigned tower. Afterward, hover between the first and second rows of the arena. Once the boss begins his cast of Holy or Circles, move to the first or second row and identify the single tower that has purple beams coming from it (as seen above). That is the safe spot.
 
-#### _Silkspit + Pandaemoniac Meltdown + Daemonic Bonds:_
+### _Silkspit + Pandaemoniac Meltdown + Daemonic Bonds:_
 **Setup:**
 Each player will receive an AOE marker under them.
 
@@ -77,17 +78,18 @@ The logic is straightforward:
 - Otherwise light parties go left and right.
 
 [Clip](https://clips.twitch.tv/UnsightlySmellyCiderTwitchRPG-Aw7cGJG1yMmOQMb9) of duo stack.
+
 [Clip](https://clips.twitch.tv/AlluringTangentialTomatoCoolCat-K-uzuh-qpcEL1Mtt) of four stack.
 
-#### _Daemoniac Bonds + Pandaemonic Turrets:_
+### _Daemoniac Bonds + Pandaemonic Turrets:_
 **Setup:**
 The boss will cast Daemoniac Bonds. The same rules as before apply here, but they will resolve _after_ the turret phase is over.
 
 Eight towers will spawn; 4 at the front of the arena, 4 at the back. After being soaked, turrets will spawn in their place with two sets of four limit cut markers over their heads. This determines the order in which they will fire. They will automatically turn towards the closest player and fire a beam across the entire arena while also dealing significant knockback to each player hit. 
-Each beam will apply a single darkness down debuff to one of the players it hits at random. These players cannot be hit again or they will suffer lethal damage.
+Each beam will apply a single darkness down debuff to the player closest to the beam. These players cannot be hit again or they will suffer lethal damage.
 
 **Resolution:**
-Due to the randomness of the application of the darkness debuff, the method for solving this mechanic requires groups to split into light parties and take each beam as a group. Once one person receives a debuff, they must avoid every other beam for the rest of this mechanic.
+Split into light parties and take each beam as a group. Once one person receives a debuff, they must avoid every other beam for the rest of this mechanic.
 
 Have each player pre-position themselves in each square on the first and third rows of the arena to soak the towers. Afterward, each player should run forward towards the middle of the arena so they can quickly adjust to which turret they need to tank. Turrets will always spawn a single number set on one side of the arena (the two turrets with the 1 marker will always both be north or south, for example). Example below.
 ![alt text](img/turret-numbers.png)
@@ -98,7 +100,7 @@ Once all beams have been tanked, each player has ~4 seconds to resolve the first
 
 [Clip](https://clips.twitch.tv/PlayfulBoringCobraRaccAttack-fVMR9CWnm41ApgBV) of resolution.
 
-#### _Pandaemoniac Ray:_
+### _Pandaemoniac Ray:_
 **Setup:**
 A red light will glow on either side of the boss's head, indicating that that half of the arena is about to become unsafe. Once the AOE goes off, eight golden orbs will spawn in its wake, firing small line AOEs horizontally across the arena.
 
@@ -107,14 +109,21 @@ The party should stand on the not-dangerous side. To dodge the small orbs, stand
 
 [Clip](https://clips.twitch.tv/GeniusBlitheSushiRlyTho-ltl1GfMWjUxGH-pU) of resolution.
 
-#### _Various Other Mechanics:_
+### _Harrowing Hell + Daemoniac Bonds:_
+**Setup:**
+The boss casts Daemoniac Bonds then begins hammering its head against the arena, dealing medium raid damage. This repeats eight times. Afterward he will knock all players to the back of the room. A wall will appear to prevent players from being knocked off. Moments later, the daemonic bonds will resolve.
+
+**Resolution:**
+Mitigation requirements are very high. Plan accordingly. Tank LB3 is used around headslam 4 or 5. It's important for the party to pre-position before the knockback for the first set of Daemoniac Bonds debuff, then quickly spread/stack for the second set.
+
+## _Various Other Mechanics:_
 All other mechanic sequences not mentioned are remixes of the above. You can watch a vod of the clear [here](https://www.twitch.tv/videos/1833080083?t=6h43m45s).
 
 Some tricky combinations to mention:
-##### _Dividing Wings + Touchdown_:
+#### _Dividing Wings + Touchdown_:
 Have DPS go left, T/H go right when resolving the web stack. The tethered players need to point the cone away from the boss. They can almost stand on the spear. [Clip](https://clips.twitch.tv/StrongBloodyOstrichSaltBae-Qm2B53ybMNscNE8s)
 
-##### _Dividing Wings + Entangling Web x2+ Stacks:_
+#### _Dividing Wings + Entangling Web x2+ Stacks:_
 Have players form a conga line to determine where they should go for placing their web AOEs at the south of the arena. The two tether players point their tether east/west and slightly north to avoid cleaving the party. 
 All remaining players should stack in the center to take the soak. The two tethered players need to _quickly_ run through the webbing to free the stack players so they can take their AOEs south in the same spots as the prior AOE group. [Clip](https://clips.twitch.tv/FastAffluentSowNerfBlueBlaster-VsHcaXpHNVr3CvUM)
 
